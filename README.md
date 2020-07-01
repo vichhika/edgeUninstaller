@@ -1,4 +1,6 @@
 # Uninstall Microsoft Edge Chromium
+
+Support windows version <= build 18363
 Uninstall Edge new version for windows updates microsoft EdgeChromium and cannot uninstall through "App or Removes Programs"
 
 file's signature :
